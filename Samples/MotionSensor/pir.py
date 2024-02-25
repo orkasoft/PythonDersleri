@@ -1,4 +1,4 @@
-# Complete project details at https://RandomNerdTutorials.com
+
 
 from machine import Pin
 from time import sleep

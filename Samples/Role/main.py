@@ -1,4 +1,4 @@
-# Complete project details at https://RandomNerdTutorials.com
+
 
 def web_page():
   if relay.value() == 1:

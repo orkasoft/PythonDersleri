@@ -1,10 +1,6 @@
-# This file is executed on every boot (including wake-boot from deepsleep)
-#import esp
-#esp.osdebug(None)
-#import webrepl
-#webrepl.start()
-# Complete project details at https://RandomNerdTutorials.com
+
 # Bu dosya micropython içerisine eklenecek
+
 try:
   import usocket as socket
 except:
