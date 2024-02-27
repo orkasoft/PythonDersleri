@@ -1,6 +1,6 @@
 # Github
 
-Tüm öğrenciler bir adet github hesabı oluşturmalı. Github hesabı ile login olduktan sonra bir adep Private repo oluşturduktan sonra:
+Tüm öğrenciler bir adet github hesabı oluşturmalı. Github hesabı ile login olduktan sonra bir adep Private repo oluşturduktan sonra: .
 
 Repo aktif seçili iken -> Settings --> Collaborators yolunu izleyerek açılan sayfada MAnage Access --> Add people tıklayarak orkasoft kullanıcısına hak vermelidir.
 
